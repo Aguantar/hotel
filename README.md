@@ -1,6 +1,6 @@
 # 🏨 Cloud-Based Hotel Reservation System
 > **비관적 락(Pessimistic Lock)을 활용한 신뢰성 높은 호텔 예약 플랫폼**
->
+>  * 현재 배포 링크 [https://www.hotel.calmee.store](https://hotel.calmee.store/) *
 > * 상세한 설명은 해당 노션 링크 참고 https://www.notion.so/1-2892245db6a2801f9462ec61b24c29ea *
 
 <br>
