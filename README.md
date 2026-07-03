@@ -1,6 +1,6 @@
 # 🏨 Cloud-Based Hotel Reservation System
 > **비관적 락(Pessimistic Lock)을 활용한 신뢰성 높은 호텔 예약 플랫폼**
-> * 🔗 **라이브 데모:** https://hotel.calmee.store  &nbsp;|&nbsp; 상세 설명: [프로젝트 노션](https://www.notion.so/1-2892245db6a2801f9462ec61b24c29ea) *
+> * 🔗 **라이브 데모:** https://hotel.calmee.store *
 
 <br>
 
@@ -108,6 +108,6 @@
 
 <br>
 
-## 📜 License & Reference
+## 📖 License & Reference
 * 이 프로젝트는 포트폴리오 목적으로 제작되었습니다.
-* 발표 자료: `대우능력개발원_1조_프로젝트결과보고서.pptx`
+* 📝 상세 설명: [프로젝트 노션 문서](https://www.notion.so/1-2892245db6a2801f9462ec61b24c29ea)
