@@ -1,6 +1,6 @@
 # 🏨 Cloud-Based Hotel Reservation System
 > **비관적 락(Pessimistic Lock)을 활용한 신뢰성 높은 호텔 예약 플랫폼**
-> * 상세한 설명은 해당 노션 링크 참고 https://www.notion.so/1-2892245db6a2801f9462ec61b24c29ea *
+> * 🔗 **라이브 데모:** https://hotel.calmee.store  &nbsp;|&nbsp; 상세 설명: [프로젝트 노션](https://www.notion.so/1-2892245db6a2801f9462ec61b24c29ea) *
 
 <br>
 
@@ -60,7 +60,7 @@
 
 ### 3. Security & DevOps
 * **Security:** XSS/SQL Injection 방지 및 민감 정보 암호화 적용, JWT 기반 인증 보안 강화
-* **Deployment:** AWS 클라우드 환경 구축 및 서버 배포, 운영
+* **Deployment:** Oracle Cloud 환경 구축 및 서버 배포·운영
 
 <br>
 
@@ -73,7 +73,7 @@
 | **Database** | [cite_start]MariaDB
 | **Payment & Map** | [cite_start]Toss Payments API, Kakao Map API [cite: 148, 141] |
 | **Auth** | OAuth 2.0 (Google, Kakao, Naver), JWT |
-| **Infrastructure** | AWS (EC2, RDS), Git/GitHub |
+| **Infrastructure** | Oracle Cloud (ARM Compute), Docker, Caddy, Git/GitHub |
 | **Tools** | Notion, Figma, IntelliJ IDEA |
 
 
